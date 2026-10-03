@@ -1,7 +1,7 @@
 # THREAD-CO
 A simple e-commerce website built while learning HTML and CSS.
 
-Thread-Co is a simple e-commerce website created as part of my web development learning journey.
+It is a simple e-commerce website created as part of my web development learning journey.
 
 ## About the Project
 
